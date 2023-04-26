@@ -7,5 +7,5 @@ in the *Psychiatry Research Communications* journal.
 
 The full paper can be accessed at: https://doi.org/10.1016/j.psycom.2023.100121
 
-The data used for this manuscript was collected at the *Catholic University of Pelotas*.
+The data used for this manuscript was collected at the *Catholic University of Pelotas* (Brazil).
 This work was conducted under the guidance of my former advisor Dr. Karen Jansen.
